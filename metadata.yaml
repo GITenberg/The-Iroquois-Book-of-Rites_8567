@@ -1,0 +1,30 @@
+_repo: The-Iroquois-Book-of-Rites_8567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, Horatio
+    birthdate: 1817
+    deathdate: 1896
+    gutenberg_agent_id: '2807'
+    url: http://www.gutenberg.org/2009/agents/2807
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Hale
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- Native America
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Onondaga language -- Texts'
+- !lcsh 'Iroquois Indians'
+- !lcc 'E011'
+- !lcsh 'Mohawk language -- Texts'
+- GITenberg
+title: The Iroquois Book of Rites
+url: http://www.gutenberg.org/ebooks/8567
